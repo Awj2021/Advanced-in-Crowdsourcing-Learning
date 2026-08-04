@@ -1,0 +1,5 @@
+# Claude Code local state accidentally created inside the repo (contains credentials)
+sda2/
+
+# Local Claude Code settings
+.claude/settings.local.json
