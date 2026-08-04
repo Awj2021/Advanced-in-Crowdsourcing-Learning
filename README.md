@@ -5,6 +5,8 @@ A list of top-tier papers on crowd-sourcing / multi-rater (multi-annotator) lear
 
 ---
 
+## Base Repos
+[[CrowdwiseKit]](https://github.com/tssai-lab/CrowdwiseKit)
 ## 2026
 
 1. Towards a Foundation Model for Crowdsourced Label Aggregation [[paper]](https://openreview.net/forum?id=FF9QVQduAu) [[code]](https://github.com/liiuhaao/CrowdFM) [ICLR2026]
