@@ -35,11 +35,12 @@ A list of top-tier papers on crowd-sourcing / multi-rater (multi-annotator) lear
 
 1. Noisy Label Learning with Instance-Dependent Outliers: Identifiability via Crowd Wisdom [[paper]](https://openreview.net/forum?id=HTLJptF7qM) [[code]](https://github.com/ductri/COINNet) [NeurIPS2024]
 2. dopanim: A Dataset of Doppelganger Animals with Noisy Annotations from Multiple Humans [[paper]](https://arxiv.org/abs/2407.20950) [[code]](https://github.com/ies-research/multi-annotator-machine-learning) [NeurIPS2024]
-3. Coupled Confusion Correction: Learning from Crowds with Sparse Annotations [[paper]](https://arxiv.org/abs/2312.07331) [[code]](https://github.com/Hansong-Zhang/CCC) [AAAI2024]
-4. Efficient Online Crowdsourcing with Complex Annotations [[paper]](https://arxiv.org/abs/2401.15116) [AAAI2024]
-5. VariErr NLI: Separating Annotation Error from Human Label Variation [[paper]](https://aclanthology.org/2024.acl-long.123/) [[code]](https://github.com/mainlp/VariErr-NLI) [ACL2024]
-6. Annot-Mix: Learning with Noisy Class Labels from Multiple Annotators via a Mixup Extension [[paper]](https://arxiv.org/abs/2405.03386) [[code]](https://github.com/ies-research/multi-annotator-machine-learning) [ECAI2024]
-7. Transferring Annotator- and Instance-dependent Transition Matrix for Learning from Crowds [[paper]](https://arxiv.org/abs/2306.03116) [TPAMI2024]
+3. Collaborative Refining for Learning from Inaccurate Labels [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/a8809ae67a7aad49a64d615468d72808-Paper-Conference.pdf) [NeurIPS2024]
+4. Coupled Confusion Correction: Learning from Crowds with Sparse Annotations [[paper]](https://arxiv.org/abs/2312.07331) [[code]](https://github.com/Hansong-Zhang/CCC) [AAAI2024]
+5. Efficient Online Crowdsourcing with Complex Annotations [[paper]](https://arxiv.org/abs/2401.15116) [AAAI2024]
+6. VariErr NLI: Separating Annotation Error from Human Label Variation [[paper]](https://aclanthology.org/2024.acl-long.123/) [[code]](https://github.com/mainlp/VariErr-NLI) [ACL2024]
+7. Annot-Mix: Learning with Noisy Class Labels from Multiple Annotators via a Mixup Extension [[paper]](https://arxiv.org/abs/2405.03386) [[code]](https://github.com/ies-research/multi-annotator-machine-learning) [ECAI2024]
+8. Transferring Annotator- and Instance-dependent Transition Matrix for Learning from Crowds [[paper]](https://arxiv.org/abs/2306.03116) [TPAMI2024]
 
 ## 2023
 
