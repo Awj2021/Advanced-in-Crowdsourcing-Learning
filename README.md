@@ -6,7 +6,12 @@ A list of top-tier papers on crowd-sourcing / multi-rater (multi-annotator) lear
 ---
 
 ## Base Repos
-[[CrowdwiseKit]](https://github.com/tssai-lab/CrowdwiseKit)
+[[CrowdwiseKit]](https://github.com/tssai-lab/CrowdwiseKit): This repo includes several repos of crowdsourcing learning. 
+[[crowd-kit]](https://github.com/Toloka/crowd-kit): a powerful Python library that implements commonly-used aggregation methods for crowdsourced annotation and offers the relevant metrics and datasets.
+[[multi-annotator-machine-learning]](https://github.com/ies-research/multi-annotator-machine-learning/tree/main): This repo also includes several implementations of comparison methods. It also lists the dataset introductions in this area. 
+
+--- 
+
 ## 2026
 
 1. Towards a Foundation Model for Crowdsourced Label Aggregation [[paper]](https://openreview.net/forum?id=FF9QVQduAu) [[code]](https://github.com/liiuhaao/CrowdFM) [ICLR2026]
@@ -47,7 +52,7 @@ A list of top-tier papers on crowd-sourcing / multi-rater (multi-annotator) lear
 ## 2023
 
 1. Deep Learning From Crowdsourced Labels: Coupled Cross-Entropy Minimization, Identifiability, and Regularization [[paper]](https://openreview.net/forum?id=_qVhsWyWB9) [ICLR2023]
-2. Label Correction of Crowdsourced Noisy Annotations with an Instance-Dependent Noise Transition Model [[paper]](https://openreview.net/forum?id=nFEQNYsjQO) [NeurIPS2023]
+2. Label Correction of Crowdsourced Noisy Annotations with an Instance-Dependent Noise Transition Model [[paper]](https://openreview.net/forum?id=nFEQNYsjQO) [[code]](https://github.com/hguo1728/BayesianIDNT) [NeurIPS2023]
 3. Neglected Free Lunch — Learning Image Classifiers Using Annotation Byproducts [[paper]](https://arxiv.org/abs/2303.17595) [[code]](https://github.com/naver-ai/NeglectedFreeLunch) [ICCV2023]
 4. Everyone's Voice Matters: Quantifying Annotation Disagreement Using Demographic Information [[paper]](https://arxiv.org/abs/2301.05036) [AAAI2023]
 5. Neural-Hidden-CRF: A Robust Weakly-Supervised Sequence Labeler [[paper]](https://arxiv.org/abs/2309.05086) [[code]](https://github.com/junchenzhi/Neural-Hidden-CRF) [KDD2023]
