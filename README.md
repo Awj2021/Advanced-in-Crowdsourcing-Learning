@@ -6,9 +6,9 @@ A list of top-tier papers on crowd-sourcing / multi-rater (multi-annotator) lear
 ---
 
 ## Base Repos
-[[CrowdwiseKit]](https://github.com/tssai-lab/CrowdwiseKit): This repo includes several repos of crowdsourcing learning. 
-[[crowd-kit]](https://github.com/Toloka/crowd-kit): a powerful Python library that implements commonly-used aggregation methods for crowdsourced annotation and offers the relevant metrics and datasets.
-[[multi-annotator-machine-learning]](https://github.com/ies-research/multi-annotator-machine-learning/tree/main): This repo also includes several implementations of comparison methods. It also lists the dataset introductions in this area. 
+[[CrowdwiseKit]](https://github.com/tssai-lab/CrowdwiseKit): This repo includes several repos of crowdsourcing learning.   
+[[crowd-kit]](https://github.com/Toloka/crowd-kit): a powerful Python library that implements commonly-used aggregation methods for crowdsourced annotation and offers the relevant metrics and datasets.   
+[[multi-annotator-machine-learning]](https://github.com/ies-research/multi-annotator-machine-learning/tree/main): This repo also includes several implementations of comparison methods. It also lists the dataset introductions in this area.    
 
 --- 
 
