@@ -128,3 +128,10 @@ A list of top-tier papers on crowd-sourcing / multi-rater (multi-annotator) lear
 ## 1979
 
 1. Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm [[paper]](https://doi.org/10.2307/2346806) [JRSS-C1979]
+
+---
+
+## Sparsity Area.
+
+1. Coupled Confusion Correction: Learning from Crowds with Sparse Annotations [[paper]](https://arxiv.org/pdf/2312.07331)
+2. Let the Prototype guide you: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning [[paper]](https://openreview.net/pdf?id=KJq0iScNM6) [[code]](https://github.com/JuJuCHEN-HHU/CPBCC_PTBCC) [NeurIPS2026] 
